@@ -1,0 +1,25 @@
+
+#Note: These are the default settings. You can customize them for each region in regions.yml.ml
+#RegionSettings
+defaultTimeBeforeDamage: 100  # in ticks
+defaultDamageInterval: 1000   # in ticks
+defaultDamageAmount: 1.0
+debug: false
+
+#TitleSettings
+title-main: "&e&l💀§l&cᴛᴏхɪᴄ ꜰᴜᴍᴇѕ!&e&l💀"
+title-sub: "§aGet out now!"
+title-fade-in: 10
+title-stay: 100
+title-fade-out: 10
+
+#WarningSound
+warning-sound: "BLOCK_FIRE_EXTINGUISH"
+
+#PotionEffects
+effect: "SLOW_DIGGING"
+effects-duration: 3600 #in ticks (3 min)
+effects-level: 3
+
+#Arena leave message
+arena-leave-text: "&6&lYou Have been affected by the toxic fumes"

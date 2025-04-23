@@ -1,0 +1,13 @@
+name: ToxicFumes
+version: '1.0-SNAPSHOT'
+main: hellfire.toxicFumes.ToxicFumes
+api-version: '1.20'
+load: STARTUP
+commands:
+  setmin:
+    description: Set the lowest corner of a region
+  setmax:
+    description: Set the highest corner of a region
+  createregion:
+    description: Create and save a toxic gas region
+
