@@ -1,2 +1,2 @@
 # ToxicFumes
-A plugin that allows to create toxic regions
+ToxicFumes is a mineacrft plugin that allows to create toxic regions
