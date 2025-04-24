@@ -11,6 +11,7 @@ ToxicFumes is a mineacrft plugin that allows to create toxic regions. Players wh
 - **Warning Sounds**: Play a warning sound when players enter the toxic area.
 - **Configurable Damage**: Set the amount of damage, interval, and time before damage starts.
 
-**CustomTitle**
+  
 
+##**CustomTitle**
 ![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/2e3b511d-e4a0-481d-a56e-d004a8fffe8d)
