@@ -16,3 +16,7 @@ ToxicFumes is a mineacrft plugin that allows to create toxic regions. Players wh
 ##**CustomTitleMessage💬**
 
 ![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/2e3b511d-e4a0-481d-a56e-d004a8fffe8d)
+
+##**CustomTitleMessage💬**
+
+![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/3a356df8-536c-44ba-a096-6967b1bbff14)
